@@ -1,1 +1,1 @@
-hello.txt
+You have a hello.txt file in your existing Git repository from your previous assignment.  . Create a Git Actions workflow to read and output the content of this file to the workflow's log when code is pushed to the main branch.
